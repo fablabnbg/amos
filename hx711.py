@@ -5,6 +5,7 @@
 # HX711 class for Rasperry Pi 2 and 3 written in Python 3 and Python 2.7
 # by Marcel Zak (gandalf15)
 # https://github.com/gandalf15/HX711
+# Version: dab8bdb8a0a8212cc2ae93e968b33c24c511f399
 #
 ###############################################################################
 #
